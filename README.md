@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd calculator
+   cd calculator_task0
    ```
 3. Open the `index.html` file in your web browser.
    - You can do this by double-clicking on the `index.html` file or by serving the project using a local development server such as Live Server.
