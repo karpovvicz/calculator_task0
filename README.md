@@ -6,7 +6,7 @@ This project is a simple and visually appealing calculator web application built
 
 
 The task is to initialize a basic JavaScript application without using any libraries or frameworks. Create a Webpack configuration for this application to enable optimized code execution. The Webpack configuration should optimize the code so that the build output consists of only two files: HTML and JS, regardless of the number of files used during development.
-(https://docs.google.com/document/d/1xpq0wfBuAq6ufFsM1s3W2ApKszwxi8PszDRbPKB_omw/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1xywfFodhZKTqz5iEkg4f45V9dAUXj4QyhXQVv6o1LBu4HloPLnXn_o2s_aem_71SDUQ1Am2U_6W2Pf93DBQ&tab=t.0)
+
 
 
 ## How to Run the App ##
